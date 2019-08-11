@@ -1,6 +1,7 @@
 # Parte 1
 
-Utilização
+Utilização:
+
 Para executar o deploy do app basta criar um arquivo criptografado com o comando abaixo:
 ```
  ansible-vault  create inventories/aws/group_vars/all/vault.yml 
